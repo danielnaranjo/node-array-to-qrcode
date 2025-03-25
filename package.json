@@ -1,0 +1,10 @@
+{
+  "name": "json-server-starter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
